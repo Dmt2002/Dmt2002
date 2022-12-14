@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python & C++**
 
-- 📫 How to reach me **digvijaythakur244@gmail.com**
+- 📫 Contact me at  **digvijaythakur244@gmail.com**
 
 
 
